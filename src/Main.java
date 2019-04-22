@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Burn World");
         System.out.println("+change1");
-        
+        System.out.println("+change2");
     }
 }
